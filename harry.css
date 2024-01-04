@@ -1,0 +1,29 @@
+#p1{
+    
+  
+  border: 100px solid black;
+  border-radius: 200px;
+  width:500px;
+  margin:100px;
+  padding:100px;
+  text-align: center;
+  
+
+
+}
+#b1{
+    background-color: bisque;
+}
+#b1:hover{
+    background-color: red;
+    transition: 0.3s ease-in-out;
+}
+#box1{
+    height:40vh;;
+    width:50%;
+    background-color: aqua;
+    margin:100px;
+    padding:100px;
+    
+
+}
